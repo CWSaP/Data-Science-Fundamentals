@@ -1,1 +1,4 @@
 Crea 10 registros y 3 columnas de un csv con datos de edad e ingresos
+
+datos
+
